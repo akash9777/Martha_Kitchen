@@ -1,4 +1,5 @@
 
+--This case study includes some set of questions which are listed below-
 --1. What is the total amount each customer spent at the restaurant?
 --2. How many days has each customer visited the restaurant?
 --3. What was the first item from the menu purchased by each customer?
@@ -9,6 +10,7 @@
 --8. What is the total items and amount spent for each member before they became a member?
 --9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier — how many points would each customer have?
 
+--####Important Point-Do not be confused with keyword "Martha_Kitchen" used in the code. This is the name of database.
 
 --1. What is the total amount each customer spent at the restaurant?
 
