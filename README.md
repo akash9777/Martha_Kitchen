@@ -20,5 +20,10 @@ sales
 menu
 members
 
+![Capture](https://github.com/akash9777/Martha_Kitchen/assets/159752126/10bc6a1d-19e3-47e2-b2bb-b9b183e6f1e3)
+
+![menu](https://github.com/akash9777/Martha_Kitchen/assets/159752126/266f98d5-98a8-4146-8c6f-81331b9e2bb3)
+
+![sales](https://github.com/akash9777/Martha_Kitchen/assets/159752126/aaf0ec99-5dbe-4d7c-a95c-65b1949cf6df)
 
 
