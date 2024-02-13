@@ -1,4 +1,4 @@
-Case Study Regarding How to Exapand the Business of Restaurent Whose Name is Martha's Kicthen 
+##Case Study Regarding How to Exapand the Business of Restaurent Whose Name is Martha's Kicthen 
 
 #INTRODUCTION
 Martha seriously loves Indian food, So she decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: samosa, jalebi and pakoda.
