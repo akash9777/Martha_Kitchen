@@ -6,7 +6,7 @@ Martha seriously loves Indian food, So she decides to embark upon a risky ventur
 
 Martha’s Kitchen is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
-PROBLEM STATEMENT
+#PROBLEM STATEMENT
 
 Martha wants to use the data to answer a few simple questions about her customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with her customers will help her deliver a better and more personalised experience for her loyal customers.
 
@@ -19,3 +19,6 @@ Martha has shared with you 3 key datasets for this case study:
 sales
 menu
 members
+
+
+
