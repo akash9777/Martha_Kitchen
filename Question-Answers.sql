@@ -8,7 +8,7 @@
 --6. Which item was purchased first by the customer after they became a member?
 --7. Which item was purchased just before the customer became a member?
 --8. What is the total items and amount spent for each member before they became a member?
---9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier — how many points would each customer have?
+--9. If each $1 spent equates to 10 points and samosa has a 2x points multiplier — how many points would each customer have?
 
 --####Important Point-Do not be confused with keyword "Martha_Kitchen" used in the code. This is the name of database.
 
@@ -176,7 +176,7 @@ select
 Customer_id,
 sum(
 case 
-    when product_name="sushi"  then (price*20)
+    when product_name="samosa"  then (price*20)
     else (price*10)
 end    
 ) as Points
