@@ -26,4 +26,5 @@ members
 
 ![sales](https://github.com/akash9777/Martha_Kitchen/assets/159752126/aaf0ec99-5dbe-4d7c-a95c-65b1949cf6df)
 
+Solution of this problem- So we have data of Martha's restaurent so we will try to find some useful insights from her data. Below are some questions. By knowing the answers of these questions, Martha can definitely know well about their customers and Martha will be able to take decisions regarding their Loyaly Program. set of questions are-
 
